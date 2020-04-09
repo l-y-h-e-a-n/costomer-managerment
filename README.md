@@ -1,1 +1,0 @@
-# costomer-managerment
